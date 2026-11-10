@@ -1,0 +1,15 @@
+{
+  "title": "Cryptid",
+  "requires-steamodded": true,
+  "requires-talisman": true,
+  "categories": [
+    "Content",
+    "Joker"
+  ],
+  "author": "MathIsFun_ & SpectralPack",
+  "repo": "https://github.com/SpectralPack/Cryptid",
+  "downloadURL": "https://github.com/SpectralPack/Cryptid/archive/refs/tags/v0.5.17d.zip",
+  "folderName": "Cryptid",
+  "version": "v0.5.17d",
+  "automatic-version-check": true
+}

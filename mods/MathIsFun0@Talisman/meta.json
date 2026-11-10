@@ -1,0 +1,15 @@
+{
+  "title": "Talisman",
+  "requires-steamodded": false,
+  "requires-talisman": false,
+  "categories": [
+    "API",
+    "Technical"
+  ],
+  "author": "MathIsFun_",
+  "repo": "https://github.com/MathIsFun0/Talisman",
+  "downloadURL": "https://github.com/MathIsFun0/Talisman/archive/refs/tags/v2.7.zip",
+  "folderName": "Talisman",
+  "version": "v2.7",
+  "automatic-version-check": true
+}

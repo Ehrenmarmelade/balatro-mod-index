@@ -1,0 +1,14 @@
+{
+  "title": "Nopeus",
+  "requires-steamodded": false,
+  "requires-talisman": false,
+  "categories": [
+    "Quality of Life"
+  ],
+  "author": "stupxd",
+  "repo": "https://github.com/stupxd/Nopeus",
+  "downloadURL": "https://github.com/stupxd/Nopeus/archive/refs/heads/main.zip",
+  "folderName": "Nopeus",
+  "version": "main",
+  "automatic-version-check": false
+}
