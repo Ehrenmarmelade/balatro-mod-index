@@ -19,10 +19,10 @@ A content mod that adds whatever its authors wanted to see in Balatro.
 
 ## Good to know
 
-- **No longer maintained:** the repository is archived. This entry is pinned to the last release (0.99.2-alpha), so it may break with newer Steamodded versions.
+- **Unofficial fixed version:** the [original repository](https://github.com/hayaunderscore/PayasTerribleAdditions) is archived and its last release crashes with Steamodded 26.x. This entry points to a [fork](https://github.com/Ehrenmarmelade/PayasTerribleAdditions) with compatibility fixes and no new content. Tested with Steamodded 26.1002.0; not every Joker effect was tested.
 - Declared conflicts: Entropy before 1.0 and MoreFluff before 1.2.0. Not compatible with Jen's Almanac.
 - One Joker plays text-to-speech. It sends the spoken text to a third-party server (tts.cyzon.us) over an unencrypted connection.
 
 ## License
 
-GPL-3.0. The mod's metadata sets `allow_redistribution` to true. Submitted by a third party, not by the authors.
+GPL-3.0. The mod's metadata sets `allow_redistribution` to true. Original mod by haya3218 and ariyi; the fork was not made by the authors.
