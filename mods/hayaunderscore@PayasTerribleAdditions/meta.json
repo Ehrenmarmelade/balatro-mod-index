@@ -1,0 +1,15 @@
+{
+  "title": "Paya's Terrible Additions",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content",
+    "Joker"
+  ],
+  "author": "haya3218 & ariyi",
+  "repo": "https://github.com/hayaunderscore/PayasTerribleAdditions",
+  "downloadURL": "https://github.com/hayaunderscore/PayasTerribleAdditions/archive/refs/tags/0.99.2-alpha.zip",
+  "folderName": "PayasTerribleAdditions",
+  "version": "0.99.2-alpha",
+  "automatic-version-check": false
+}
